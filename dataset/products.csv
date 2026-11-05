@@ -1,0 +1,31 @@
+product_id,category,product_name,list_price,unit_cost
+1,Electronics,Wireless Earbuds,1899,1040
+2,Electronics,Bluetooth Speaker,2499,1400
+3,Electronics,Smart Watch,3999,2300
+4,Electronics,USB-C Charger,799,350
+5,Electronics,Power Bank,1599,900
+6,Fashion,Cotton T-Shirt,699,290
+7,Fashion,Denim Jeans,1799,830
+8,Fashion,Running Shoes,2999,1600
+9,Fashion,Backpack,1299,600
+10,Fashion,Hoodie,1499,700
+11,Home,Desk Lamp,1199,510
+12,Home,Water Bottle,499,190
+13,Home,Bedsheet Set,1799,800
+14,Home,Storage Box,649,270
+15,Home,Coffee Mug,399,130
+16,Beauty,Face Wash,449,180
+17,Beauty,Moisturizer,699,300
+18,Beauty,Sunscreen,799,360
+19,Beauty,Shampoo,549,220
+20,Beauty,Body Lotion,599,250
+21,Sports,Yoga Mat,999,430
+22,Sports,Dumbbell Set,2499,1300
+23,Sports,Skipping Rope,399,140
+24,Sports,Gym Gloves,699,280
+25,Sports,Resistance Bands,899,360
+26,Books,SQL Fundamentals,899,380
+27,Books,Python for Analysts,1099,460
+28,Books,Excel Dashboard Guide,749,290
+29,Books,Data Visualization,999,410
+30,Books,Business Analytics,1199,500

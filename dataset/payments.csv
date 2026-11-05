@@ -1,0 +1,1854 @@
+payment_id,order_id,payment_method,amount,payment_status
+1,1,Cash on Delivery,5072.05,Completed
+2,2,UPI,1207.10,Completed
+3,4,Cash on Delivery,11354.10,Completed
+4,5,Debit Card,7513.60,Completed
+5,6,Cash on Delivery,5200.30,Completed
+6,7,Debit Card,3694.05,Completed
+7,8,Debit Card,9242.30,Completed
+8,9,Net Banking,8332.80,Completed
+9,10,Credit Card,1564.65,Completed
+10,11,UPI,4325.95,Completed
+11,12,Net Banking,5527.15,Completed
+12,13,Net Banking,4997.55,Completed
+13,14,UPI,8593.00,Completed
+14,15,Net Banking,9375.80,Completed
+15,16,UPI,1098.00,Completed
+16,18,Net Banking,8465.45,Completed
+17,20,UPI,4805.90,Completed
+18,21,Credit Card,10073.15,Completed
+19,22,Debit Card,1598.00,Pending
+20,24,Cash on Delivery,8454.30,Completed
+21,25,Debit Card,2216.40,Completed
+22,27,Credit Card,2097.00,Completed
+23,28,Cash on Delivery,898.00,Completed
+24,29,UPI,6442.50,Completed
+25,30,Net Banking,7096.30,Completed
+26,31,UPI,1188.30,Completed
+27,32,Debit Card,20250.30,Completed
+28,33,Cash on Delivery,4958.25,Completed
+29,35,Debit Card,1976.60,Completed
+30,36,Cash on Delivery,10743.30,Completed
+31,37,Debit Card,3597.00,Completed
+32,38,Cash on Delivery,808.20,Completed
+33,40,Debit Card,1928.10,Completed
+34,41,Credit Card,8708.05,Completed
+35,42,UPI,649.00,Completed
+36,43,Credit Card,5927.50,Completed
+37,44,UPI,3276.60,Completed
+38,45,UPI,5743.65,Completed
+39,46,Debit Card,6197.00,Completed
+40,47,Cash on Delivery,4397.15,Completed
+41,48,Cash on Delivery,6832.50,Completed
+42,49,Debit Card,5095.30,Completed
+43,50,Cash on Delivery,7567.30,Completed
+44,51,UPI,6412.60,Completed
+45,52,Debit Card,6655.00,Completed
+46,53,UPI,11796.00,Completed
+47,54,Debit Card,5094.60,Completed
+48,55,Credit Card,5998.00,Completed
+49,56,UPI,6976.65,Completed
+50,57,Debit Card,2285.50,Completed
+51,59,Net Banking,5675.45,Completed
+52,60,Credit Card,559.20,Completed
+53,61,Cash on Delivery,1198.40,Completed
+54,62,Credit Card,10124.30,Completed
+55,63,Credit Card,10167.75,Completed
+56,64,Credit Card,1899.00,Completed
+57,65,Net Banking,6434.40,Completed
+58,66,Net Banking,12356.35,Completed
+59,67,Credit Card,7897.65,Pending
+60,68,Debit Card,1118.40,Completed
+61,69,Credit Card,11020.60,Pending
+62,70,Cash on Delivery,2517.15,Completed
+63,71,UPI,1437.60,Completed
+64,72,Cash on Delivery,4798.40,Completed
+65,73,Net Banking,1169.10,Completed
+66,74,UPI,1077.60,Completed
+67,75,UPI,6434.80,Completed
+68,76,Debit Card,4484.30,Completed
+69,77,Credit Card,1427.50,Completed
+70,78,Debit Card,7525.30,Completed
+71,79,Cash on Delivery,1498.00,Completed
+72,80,Cash on Delivery,899.00,Completed
+73,81,UPI,5253.65,Completed
+74,82,Credit Card,2645.70,Completed
+75,83,Cash on Delivery,4415.40,Completed
+76,84,Credit Card,6797.00,Completed
+77,85,Debit Card,3086.25,Completed
+78,86,UPI,8142.00,Completed
+79,87,Cash on Delivery,2097.00,Completed
+80,88,UPI,2499.00,Completed
+81,89,Net Banking,1871.15,Completed
+82,90,Cash on Delivery,3296.00,Completed
+83,91,Credit Card,1798.00,Completed
+84,92,Net Banking,4699.90,Completed
+85,93,Credit Card,6954.60,Completed
+86,94,Net Banking,6372.45,Refunded
+87,95,UPI,14092.00,Completed
+88,96,Credit Card,15670.95,Completed
+89,97,Cash on Delivery,521.55,Completed
+90,98,Cash on Delivery,3998.00,Completed
+91,99,Cash on Delivery,7294.00,Completed
+92,100,Credit Card,11555.20,Completed
+93,101,Credit Card,10881.25,Completed
+94,102,Credit Card,7192.80,Completed
+95,103,Cash on Delivery,4374.30,Completed
+96,104,Credit Card,1709.05,Completed
+97,105,UPI,799.00,Completed
+98,106,Net Banking,5447.00,Completed
+99,107,Credit Card,499.00,Completed
+100,108,UPI,8654.15,Completed
+101,109,Credit Card,439.20,Pending
+102,110,UPI,7455.15,Completed
+103,111,UPI,12027.30,Completed
+104,112,Debit Card,13355.30,Completed
+105,113,Debit Card,2686.30,Completed
+106,114,Debit Card,7907.95,Completed
+107,115,Debit Card,3416.45,Completed
+108,116,Cash on Delivery,6538.95,Completed
+109,118,Debit Card,3236.30,Pending
+110,120,Net Banking,3827.45,Completed
+111,121,Credit Card,3875.20,Completed
+112,122,Debit Card,6197.00,Completed
+113,123,Net Banking,948.10,Completed
+114,124,Credit Card,2037.45,Completed
+115,125,UPI,5636.55,Completed
+116,126,UPI,2876.40,Refunded
+117,127,Cash on Delivery,6622.75,Completed
+118,128,Credit Card,3952.35,Completed
+119,129,Net Banking,2692.95,Completed
+120,130,Net Banking,3218.55,Completed
+121,133,Debit Card,1797.60,Completed
+122,134,Credit Card,5775.10,Completed
+123,135,UPI,1228.15,Completed
+124,136,Net Banking,8512.60,Completed
+125,137,Cash on Delivery,12148.90,Completed
+126,138,Net Banking,2158.20,Completed
+127,139,Credit Card,13549.15,Completed
+128,141,UPI,539.10,Completed
+129,142,Credit Card,10030.30,Completed
+130,143,Credit Card,4620.60,Completed
+131,144,Debit Card,4078.30,Completed
+132,145,UPI,4300.25,Completed
+133,146,Credit Card,1973.10,Completed
+134,147,Debit Card,3804.15,Completed
+135,148,Cash on Delivery,7683.70,Pending
+136,149,UPI,9312.25,Refunded
+137,150,Cash on Delivery,6493.50,Pending
+138,151,UPI,5595.00,Completed
+139,152,UPI,1118.40,Completed
+140,153,UPI,7284.30,Completed
+141,154,Credit Card,14311.15,Completed
+142,155,Cash on Delivery,5989.15,Completed
+143,156,Net Banking,5066.30,Completed
+144,157,Cash on Delivery,4146.00,Completed
+145,158,UPI,4369.15,Completed
+146,159,Debit Card,999.00,Completed
+147,160,Debit Card,9645.30,Refunded
+148,161,Cash on Delivery,8520.45,Completed
+149,162,Credit Card,2156.50,Completed
+150,163,Cash on Delivery,6454.30,Refunded
+151,164,UPI,5979.05,Completed
+152,165,Debit Card,5697.00,Completed
+153,166,Net Banking,1258.20,Completed
+154,167,Credit Card,2296.00,Completed
+155,168,UPI,2846.00,Completed
+156,171,Cash on Delivery,2037.45,Completed
+157,172,Credit Card,1077.30,Refunded
+158,173,UPI,5244.00,Completed
+159,174,Debit Card,3670.50,Completed
+160,175,Credit Card,1999.20,Completed
+161,176,Cash on Delivery,5705.40,Completed
+162,177,UPI,1493.15,Completed
+163,178,Debit Card,8848.50,Completed
+164,180,Cash on Delivery,2136.20,Completed
+165,181,UPI,10252.20,Completed
+166,182,Debit Card,3524.10,Completed
+167,183,Cash on Delivery,1717.40,Completed
+168,184,Cash on Delivery,1338.20,Completed
+169,185,Cash on Delivery,5982.30,Refunded
+170,186,UPI,6585.65,Completed
+171,187,Credit Card,3326.40,Completed
+172,188,Credit Card,699.00,Completed
+173,189,Credit Card,1498.10,Completed
+174,190,Debit Card,5195.70,Completed
+175,191,Debit Card,5616.30,Completed
+176,192,Debit Card,5826.15,Completed
+177,193,UPI,3932.85,Completed
+178,194,UPI,1500.05,Completed
+179,195,UPI,2877.60,Completed
+180,196,Net Banking,9956.70,Completed
+181,197,Credit Card,2243.95,Completed
+182,198,Cash on Delivery,7895.00,Completed
+183,199,Cash on Delivery,1477.20,Completed
+184,200,Debit Card,16812.60,Completed
+185,201,Cash on Delivery,5794.00,Completed
+186,202,Credit Card,2666.10,Pending
+187,203,Net Banking,7310.70,Completed
+188,204,Credit Card,9022.05,Completed
+189,205,Net Banking,3418.10,Completed
+190,206,Net Banking,8681.60,Pending
+191,207,UPI,4157.10,Pending
+192,209,Debit Card,6627.10,Completed
+193,210,Credit Card,3560.15,Completed
+194,211,UPI,6335.10,Completed
+195,212,Net Banking,4557.60,Completed
+196,213,Debit Card,5733.60,Completed
+197,214,Credit Card,14023.45,Completed
+198,215,Debit Card,1797.00,Completed
+199,216,UPI,12630.65,Completed
+200,217,UPI,4776.60,Completed
+201,218,Debit Card,8565.60,Completed
+202,219,UPI,2247.00,Completed
+203,220,Debit Card,4047.30,Completed
+204,221,Net Banking,6592.05,Completed
+205,222,Debit Card,18895.80,Completed
+206,223,Cash on Delivery,3204.05,Completed
+207,224,Net Banking,6862.15,Completed
+208,225,UPI,7158.15,Completed
+209,226,Net Banking,9982.45,Completed
+210,227,Net Banking,2562.15,Pending
+211,228,Net Banking,3876.40,Completed
+212,229,UPI,3736.60,Completed
+213,230,Credit Card,1599.00,Completed
+214,231,Credit Card,3956.20,Pending
+215,232,Net Banking,5598.15,Completed
+216,233,Debit Card,3996.00,Completed
+217,234,Net Banking,1999.20,Completed
+218,235,Debit Card,6203.20,Completed
+219,236,Cash on Delivery,1985.90,Completed
+220,237,Cash on Delivery,399.00,Completed
+221,238,UPI,4813.80,Completed
+222,239,UPI,2916.55,Completed
+223,240,Debit Card,11370.45,Completed
+224,241,Debit Card,4363.50,Completed
+225,242,Cash on Delivery,3418.10,Refunded
+226,243,Debit Card,999.00,Completed
+227,244,Debit Card,11991.10,Completed
+228,245,Cash on Delivery,1768.05,Refunded
+229,247,Cash on Delivery,9071.90,Completed
+230,248,Net Banking,3675.60,Pending
+231,249,UPI,8415.10,Completed
+232,250,Debit Card,7637.15,Completed
+233,251,Cash on Delivery,3446.00,Completed
+234,252,Net Banking,3997.00,Completed
+235,253,Cash on Delivery,4210.05,Completed
+236,254,Net Banking,5117.20,Completed
+237,255,Credit Card,1707.10,Completed
+238,256,Cash on Delivery,7497.00,Completed
+239,257,Net Banking,12691.20,Completed
+240,258,Debit Card,3211.15,Completed
+241,260,Cash on Delivery,3507.30,Completed
+242,261,Net Banking,1197.00,Completed
+243,262,Cash on Delivery,19522.30,Completed
+244,263,Credit Card,4316.35,Completed
+245,264,Debit Card,1137.15,Completed
+246,265,Credit Card,10021.50,Completed
+247,266,UPI,2134.65,Completed
+248,267,Credit Card,9763.50,Completed
+249,268,Net Banking,5127.30,Completed
+250,269,Cash on Delivery,8293.35,Refunded
+251,270,Credit Card,9257.50,Completed
+252,271,Cash on Delivery,3056.10,Completed
+253,272,Net Banking,1199.00,Completed
+254,273,Credit Card,9331.60,Refunded
+255,274,Credit Card,7869.80,Completed
+256,275,UPI,6793.70,Completed
+257,277,Debit Card,11293.75,Completed
+258,278,Cash on Delivery,3199.20,Completed
+259,280,Cash on Delivery,7104.20,Completed
+260,281,Cash on Delivery,13094.25,Pending
+261,283,Credit Card,6855.25,Completed
+262,284,Cash on Delivery,15124.45,Completed
+263,285,Net Banking,1798.00,Completed
+264,286,Cash on Delivery,3624.30,Completed
+265,287,UPI,4535.30,Completed
+266,288,Net Banking,16899.90,Completed
+267,290,Cash on Delivery,1299.00,Pending
+268,291,Cash on Delivery,4706.05,Refunded
+269,292,UPI,10695.00,Completed
+270,294,Cash on Delivery,4248.30,Completed
+271,295,Debit Card,3697.00,Refunded
+272,296,Cash on Delivery,2208.30,Completed
+273,297,Credit Card,4215.65,Completed
+274,298,Net Banking,584.10,Completed
+275,299,Credit Card,2415.55,Completed
+276,300,Cash on Delivery,4460.25,Completed
+277,301,Net Banking,1797.00,Completed
+278,303,Cash on Delivery,5516.75,Completed
+279,304,Cash on Delivery,11474.20,Completed
+280,306,Cash on Delivery,5555.40,Completed
+281,307,Credit Card,6015.60,Completed
+282,308,UPI,4796.00,Completed
+283,309,Net Banking,3425.70,Completed
+284,310,Net Banking,9413.10,Completed
+285,311,UPI,5273.60,Completed
+286,313,Credit Card,1956.70,Completed
+287,314,Net Banking,1518.10,Completed
+288,315,UPI,2158.20,Completed
+289,316,UPI,6354.60,Completed
+290,317,Debit Card,7015.80,Completed
+291,318,Credit Card,3247.15,Completed
+292,319,Cash on Delivery,4587.45,Completed
+293,320,Cash on Delivery,8951.70,Completed
+294,322,Debit Card,5897.10,Completed
+295,324,UPI,1423.10,Completed
+296,325,UPI,3924.65,Completed
+297,326,UPI,7935.60,Completed
+298,327,Debit Card,934.15,Completed
+299,328,Debit Card,10430.75,Completed
+300,329,UPI,7002.95,Completed
+301,330,Debit Card,4858.75,Completed
+302,331,Credit Card,2097.00,Refunded
+303,332,Credit Card,10981.50,Completed
+304,333,Cash on Delivery,5943.00,Completed
+305,334,Net Banking,7833.45,Completed
+306,335,UPI,6074.40,Completed
+307,336,Net Banking,10032.30,Completed
+308,337,Debit Card,5719.45,Completed
+309,338,UPI,20192.75,Completed
+310,339,UPI,5653.75,Completed
+311,341,Cash on Delivery,7120.10,Completed
+312,342,Cash on Delivery,14094.00,Completed
+313,343,Net Banking,8531.10,Completed
+314,345,Cash on Delivery,8648.90,Completed
+315,346,Credit Card,13251.25,Completed
+316,347,Debit Card,4202.05,Completed
+317,348,Net Banking,6316.60,Completed
+318,349,Net Banking,2167.20,Refunded
+319,350,Credit Card,4674.00,Completed
+320,351,Net Banking,5523.90,Completed
+321,352,Cash on Delivery,4296.00,Completed
+322,353,Net Banking,4280.45,Completed
+323,354,UPI,6132.90,Completed
+324,355,Debit Card,7579.45,Completed
+325,356,Net Banking,3677.60,Refunded
+326,357,Credit Card,5433.40,Completed
+327,358,Net Banking,1212.30,Completed
+328,359,Net Banking,4177.90,Completed
+329,360,Debit Card,9781.00,Refunded
+330,361,UPI,3598.00,Completed
+331,362,Debit Card,3228.30,Completed
+332,363,UPI,3230.40,Completed
+333,365,Net Banking,4946.05,Completed
+334,366,Cash on Delivery,10011.75,Completed
+335,367,Debit Card,5525.45,Completed
+336,368,Net Banking,449.00,Completed
+337,369,UPI,4395.00,Completed
+338,370,Cash on Delivery,7317.05,Completed
+339,371,UPI,2097.00,Completed
+340,372,Cash on Delivery,3736.50,Completed
+341,373,Net Banking,1138.20,Completed
+342,374,Cash on Delivery,5879.30,Completed
+343,375,UPI,3198.00,Completed
+344,376,UPI,8251.90,Completed
+345,377,Cash on Delivery,10395.30,Completed
+346,378,Net Banking,10492.25,Completed
+347,379,Credit Card,11519.70,Refunded
+348,380,UPI,4844.80,Completed
+349,382,UPI,7534.25,Completed
+350,383,Debit Card,9642.90,Completed
+351,385,Net Banking,7682.40,Completed
+352,386,UPI,5997.60,Completed
+353,387,Cash on Delivery,2516.75,Completed
+354,388,Net Banking,9425.55,Completed
+355,389,Credit Card,10547.00,Completed
+356,390,UPI,1138.10,Completed
+357,391,Cash on Delivery,3975.60,Completed
+358,393,Debit Card,5855.15,Completed
+359,394,Debit Card,6112.10,Completed
+360,395,Debit Card,7090.00,Completed
+361,396,Debit Card,2652.05,Completed
+362,397,Cash on Delivery,6377.05,Completed
+363,398,UPI,4325.10,Completed
+364,399,UPI,3402.55,Refunded
+365,400,Credit Card,2398.00,Completed
+366,401,Debit Card,6144.30,Completed
+367,402,Net Banking,4528.15,Completed
+368,403,Credit Card,4898.00,Completed
+369,404,Net Banking,3981.50,Completed
+370,405,Net Banking,2562.15,Refunded
+371,406,UPI,2256.60,Completed
+372,407,Debit Card,6973.65,Completed
+373,408,Net Banking,2437.05,Completed
+374,409,UPI,10462.60,Completed
+375,410,Credit Card,4535.55,Completed
+376,411,UPI,1298.00,Completed
+377,412,Debit Card,3175.80,Completed
+378,413,Credit Card,1698.00,Pending
+379,414,UPI,2697.00,Completed
+380,415,Net Banking,7362.75,Completed
+381,416,Credit Card,3195.00,Completed
+382,417,UPI,3311.15,Refunded
+383,418,Net Banking,749.00,Completed
+384,419,Credit Card,7513.30,Completed
+385,420,Cash on Delivery,8513.40,Completed
+386,421,Debit Card,8914.90,Completed
+387,422,Debit Card,2562.15,Completed
+388,423,Net Banking,6045.15,Completed
+389,424,UPI,22337.55,Completed
+390,425,UPI,13107.15,Completed
+391,427,Debit Card,9274.20,Completed
+392,428,UPI,4995.00,Pending
+393,429,UPI,9811.00,Completed
+394,430,UPI,3394.50,Completed
+395,431,Debit Card,12641.10,Completed
+396,432,Debit Card,15150.50,Completed
+397,433,UPI,7993.05,Completed
+398,434,Debit Card,1199.00,Completed
+399,435,Net Banking,6389.35,Completed
+400,436,Cash on Delivery,1439.20,Completed
+401,438,UPI,4044.00,Completed
+402,439,Cash on Delivery,8594.20,Completed
+403,440,UPI,1197.60,Completed
+404,442,Net Banking,4362.05,Completed
+405,443,Net Banking,5753.80,Completed
+406,444,UPI,3132.15,Refunded
+407,445,UPI,5833.95,Completed
+408,446,Net Banking,4855.20,Completed
+409,447,Cash on Delivery,8149.30,Pending
+410,448,UPI,8344.40,Completed
+411,449,Cash on Delivery,11637.35,Completed
+412,450,Cash on Delivery,4147.15,Completed
+413,451,Net Banking,6115.20,Completed
+414,452,Net Banking,7934.40,Completed
+415,453,Credit Card,5931.50,Completed
+416,454,Credit Card,1197.60,Completed
+417,455,Credit Card,1318.40,Completed
+418,456,Net Banking,879.20,Completed
+419,458,Net Banking,3096.30,Completed
+420,459,Cash on Delivery,4233.20,Completed
+421,461,UPI,9245.20,Completed
+422,462,Debit Card,9093.10,Completed
+423,463,UPI,3596.00,Completed
+424,464,UPI,9634.20,Completed
+425,465,Credit Card,3896.10,Completed
+426,466,Net Banking,519.20,Completed
+427,467,Cash on Delivery,6694.00,Completed
+428,470,Net Banking,399.00,Completed
+429,471,Credit Card,2636.40,Completed
+430,472,UPI,6176.10,Pending
+431,473,Net Banking,6358.15,Completed
+432,474,Debit Card,5459.05,Completed
+433,475,Credit Card,7312.80,Completed
+434,476,UPI,5946.30,Completed
+435,477,Net Banking,15291.60,Completed
+436,478,Debit Card,5695.20,Completed
+437,479,Credit Card,6354.60,Completed
+438,480,Debit Card,4713.45,Completed
+439,481,Cash on Delivery,2476.80,Completed
+440,483,Cash on Delivery,8902.80,Completed
+441,484,Cash on Delivery,4886.70,Completed
+442,485,Debit Card,2398.00,Completed
+443,486,Net Banking,5829.55,Refunded
+444,487,Debit Card,679.15,Completed
+445,488,Credit Card,9331.70,Completed
+446,489,Net Banking,1799.00,Completed
+447,490,Credit Card,7497.00,Completed
+448,491,Cash on Delivery,7647.45,Completed
+449,492,Net Banking,6475.40,Completed
+450,493,Net Banking,6114.90,Completed
+451,494,Net Banking,14707.20,Completed
+452,495,UPI,5698.10,Completed
+453,496,Net Banking,3844.70,Completed
+454,497,Net Banking,4497.00,Completed
+455,498,Debit Card,6566.05,Completed
+456,500,Net Banking,4179.30,Completed
+457,501,Credit Card,4311.75,Completed
+458,502,Net Banking,11322.35,Completed
+459,503,UPI,4746.15,Completed
+460,504,Credit Card,2277.15,Completed
+461,505,Net Banking,5294.00,Completed
+462,506,Net Banking,10374.30,Completed
+463,507,Credit Card,2157.30,Completed
+464,508,UPI,4543.00,Completed
+465,509,Debit Card,8080.65,Completed
+466,510,UPI,6102.60,Completed
+467,511,Cash on Delivery,6942.80,Completed
+468,512,Cash on Delivery,3096.30,Completed
+469,513,Cash on Delivery,9517.60,Completed
+470,514,Credit Card,5737.20,Completed
+471,515,Net Banking,16512.95,Completed
+472,517,Debit Card,13118.15,Completed
+473,518,Cash on Delivery,7388.10,Completed
+474,519,Debit Card,4120.95,Completed
+475,520,Cash on Delivery,5645.00,Completed
+476,521,Cash on Delivery,4024.00,Completed
+477,522,UPI,3317.20,Completed
+478,523,Cash on Delivery,1849.65,Completed
+479,524,UPI,2764.95,Completed
+480,525,Debit Card,5447.00,Completed
+481,526,Debit Card,10320.45,Completed
+482,527,Net Banking,3575.30,Completed
+483,528,Cash on Delivery,9434.55,Completed
+484,529,Credit Card,8899.85,Completed
+485,530,Net Banking,3405.20,Completed
+486,531,Net Banking,3647.10,Completed
+487,532,Cash on Delivery,3215.40,Completed
+488,533,Credit Card,1137.15,Completed
+489,534,Credit Card,1518.10,Completed
+490,535,Net Banking,559.20,Completed
+491,536,Cash on Delivery,2746.00,Completed
+492,537,Net Banking,5681.40,Completed
+493,539,Credit Card,3398.00,Pending
+494,540,Cash on Delivery,6512.60,Completed
+495,541,Debit Card,2397.00,Completed
+496,542,Net Banking,5282.30,Completed
+497,543,Cash on Delivery,7761.30,Completed
+498,544,Credit Card,3956.60,Completed
+499,545,Debit Card,6707.15,Completed
+500,546,UPI,4190.55,Completed
+501,547,Debit Card,1686.15,Completed
+502,548,Cash on Delivery,13610.70,Completed
+503,549,Net Banking,8694.55,Completed
+504,550,Debit Card,3377.05,Completed
+505,551,Cash on Delivery,3422.15,Completed
+506,552,Net Banking,7716.30,Completed
+507,553,Credit Card,5854.60,Completed
+508,554,Net Banking,16854.30,Completed
+509,555,Net Banking,3416.20,Completed
+510,556,UPI,2197.00,Completed
+511,557,Debit Card,6295.20,Completed
+512,558,Cash on Delivery,2427.30,Completed
+513,559,Net Banking,5955.40,Completed
+514,560,Debit Card,2957.20,Completed
+515,561,Cash on Delivery,6250.10,Completed
+516,563,UPI,1998.00,Completed
+517,564,Debit Card,6455.70,Completed
+518,565,Cash on Delivery,5798.00,Completed
+519,566,Net Banking,5912.20,Completed
+520,567,UPI,3147.00,Completed
+521,568,Net Banking,809.10,Completed
+522,569,Cash on Delivery,3596.10,Completed
+523,570,UPI,2844.00,Completed
+524,571,Net Banking,1987.50,Completed
+525,572,UPI,5432.45,Completed
+526,573,Cash on Delivery,10592.60,Completed
+527,574,Net Banking,1299.00,Completed
+528,575,Debit Card,1258.20,Completed
+529,576,Net Banking,6293.60,Completed
+530,577,Cash on Delivery,4865.30,Completed
+531,578,Cash on Delivery,4036.50,Completed
+532,579,Cash on Delivery,2877.65,Completed
+533,580,Credit Card,1697.00,Completed
+534,581,Cash on Delivery,1797.00,Completed
+535,582,Credit Card,4296.20,Completed
+536,583,Net Banking,1698.30,Completed
+537,584,Cash on Delivery,6818.25,Completed
+538,585,Credit Card,7273.65,Completed
+539,586,Cash on Delivery,5306.10,Completed
+540,588,Net Banking,7673.70,Completed
+541,589,Net Banking,2022.30,Completed
+542,590,Credit Card,8816.00,Completed
+543,591,Cash on Delivery,7998.00,Pending
+544,592,Credit Card,664.05,Completed
+545,593,Debit Card,3506.40,Pending
+546,595,Credit Card,2399.20,Completed
+547,596,Credit Card,5919.05,Completed
+548,597,Cash on Delivery,1799.00,Completed
+549,598,UPI,549.00,Completed
+550,599,Net Banking,3296.70,Completed
+551,600,UPI,8681.70,Completed
+552,601,Net Banking,4399.60,Completed
+553,602,Net Banking,3077.20,Completed
+554,603,Debit Card,4495.00,Completed
+555,604,Net Banking,5695.00,Completed
+556,605,Net Banking,4014.45,Completed
+557,607,Cash on Delivery,3598.00,Refunded
+558,608,Debit Card,6545.90,Completed
+559,609,Cash on Delivery,4284.30,Completed
+560,611,Debit Card,1598.00,Completed
+561,612,Net Banking,3764.45,Completed
+562,613,Debit Card,3545.10,Completed
+563,614,UPI,4117.55,Completed
+564,615,UPI,6759.15,Completed
+565,616,UPI,639.20,Completed
+566,617,Debit Card,6461.15,Completed
+567,619,Debit Card,6036.10,Refunded
+568,620,Credit Card,319.20,Completed
+569,621,Net Banking,2942.05,Completed
+570,622,Cash on Delivery,1557.60,Completed
+571,623,UPI,14669.15,Completed
+572,624,Debit Card,10701.00,Completed
+573,625,Credit Card,2801.60,Refunded
+574,626,Credit Card,8997.00,Completed
+575,627,Debit Card,10695.50,Pending
+576,628,UPI,11911.80,Completed
+577,629,UPI,1797.30,Completed
+578,630,Net Banking,5998.00,Completed
+579,631,UPI,13431.65,Completed
+580,632,Credit Card,399.00,Completed
+581,633,UPI,2427.30,Completed
+582,634,Net Banking,11667.45,Pending
+583,635,Credit Card,6343.55,Completed
+584,636,Credit Card,1518.10,Completed
+585,637,UPI,9646.15,Completed
+586,638,UPI,7084.20,Completed
+587,639,Credit Card,10306.20,Completed
+588,640,Debit Card,8046.00,Completed
+589,641,Credit Card,1564.65,Completed
+590,642,Debit Card,2247.00,Completed
+591,643,UPI,4215.50,Completed
+592,644,Cash on Delivery,2856.40,Pending
+593,645,Credit Card,1998.00,Completed
+594,646,Debit Card,3356.40,Completed
+595,647,Net Banking,6095.00,Completed
+596,649,UPI,2246.40,Completed
+597,650,Debit Card,3895.00,Completed
+598,651,Debit Card,1897.00,Completed
+599,652,Debit Card,9331.05,Completed
+600,654,Debit Card,2946.00,Completed
+601,655,Debit Card,8573.20,Completed
+602,656,Debit Card,1347.30,Completed
+603,657,Debit Card,11394.60,Completed
+604,658,Net Banking,3987.15,Completed
+605,659,UPI,12504.75,Completed
+606,660,Net Banking,8493.15,Completed
+607,661,Debit Card,10537.55,Completed
+608,662,Net Banking,3197.10,Completed
+609,663,Debit Card,7896.60,Completed
+610,664,UPI,5103.45,Completed
+611,665,Debit Card,6372.45,Completed
+612,666,Cash on Delivery,10882.30,Completed
+613,667,Credit Card,3376.15,Completed
+614,668,Debit Card,3207.10,Completed
+615,669,Cash on Delivery,10710.20,Completed
+616,670,Credit Card,6462.95,Completed
+617,671,Cash on Delivery,5754.30,Completed
+618,672,Cash on Delivery,9072.20,Completed
+619,673,Net Banking,6999.00,Completed
+620,674,Credit Card,11152.85,Completed
+621,675,UPI,5664.10,Completed
+622,676,UPI,2397.00,Completed
+623,677,Debit Card,7584.30,Completed
+624,678,Net Banking,449.10,Completed
+625,679,Net Banking,5351.30,Completed
+626,680,Net Banking,1598.40,Completed
+627,681,UPI,9165.75,Completed
+628,682,Net Banking,8227.40,Completed
+629,683,Cash on Delivery,5093.75,Completed
+630,684,Net Banking,10500.30,Completed
+631,685,Credit Card,2317.40,Completed
+632,686,Cash on Delivery,16824.65,Completed
+633,687,UPI,11532.35,Completed
+634,688,Cash on Delivery,998.00,Completed
+635,689,Net Banking,4696.00,Completed
+636,690,UPI,9556.30,Refunded
+637,691,UPI,5095.55,Completed
+638,692,UPI,5935.85,Completed
+639,693,UPI,1898.10,Completed
+640,694,UPI,5357.50,Completed
+641,695,Debit Card,5964.40,Completed
+642,696,Net Banking,7447.95,Completed
+643,698,Net Banking,3966.50,Completed
+644,699,Cash on Delivery,5839.45,Completed
+645,700,Net Banking,3077.25,Completed
+646,701,Net Banking,6570.55,Completed
+647,702,Credit Card,898.00,Completed
+648,703,Net Banking,1519.05,Completed
+649,704,UPI,551.65,Completed
+650,705,UPI,5847.90,Refunded
+651,706,Debit Card,4015.30,Completed
+652,707,UPI,14408.90,Completed
+653,708,Cash on Delivery,2416.20,Completed
+654,709,Credit Card,5543.10,Completed
+655,710,Cash on Delivery,6924.60,Completed
+656,711,Debit Card,9353.50,Completed
+657,712,Cash on Delivery,399.00,Completed
+658,713,UPI,4245.55,Completed
+659,714,UPI,4226.40,Refunded
+660,715,Debit Card,1564.65,Completed
+661,716,Cash on Delivery,8955.60,Completed
+662,717,Cash on Delivery,7522.70,Completed
+663,718,Debit Card,13928.85,Completed
+664,719,Net Banking,4587.10,Completed
+665,721,Debit Card,7011.90,Completed
+666,722,Credit Card,7254.30,Completed
+667,723,Net Banking,3695.60,Completed
+668,724,UPI,5127.15,Completed
+669,725,UPI,2456.10,Completed
+670,726,UPI,7103.65,Completed
+671,727,UPI,10668.45,Completed
+672,728,Net Banking,2846.00,Completed
+673,729,Cash on Delivery,3451.05,Completed
+674,730,UPI,12333.60,Completed
+675,731,Cash on Delivery,15591.60,Completed
+676,732,Credit Card,4248.30,Completed
+677,733,Cash on Delivery,2476.80,Completed
+678,734,Net Banking,1799.85,Completed
+679,736,Credit Card,5396.00,Completed
+680,737,Credit Card,12595.45,Completed
+681,738,Net Banking,6452.05,Completed
+682,739,Cash on Delivery,2247.00,Completed
+683,740,UPI,8195.40,Completed
+684,741,Cash on Delivery,7232.45,Completed
+685,742,UPI,2736.15,Completed
+686,743,Cash on Delivery,3038.40,Completed
+687,744,Credit Card,5473.80,Completed
+688,745,UPI,18038.10,Completed
+689,746,UPI,4296.00,Completed
+690,747,UPI,1017.45,Completed
+691,748,UPI,9522.10,Completed
+692,749,Debit Card,14777.30,Completed
+693,750,Credit Card,999.00,Completed
+694,751,Debit Card,4676.60,Completed
+695,752,Cash on Delivery,8623.40,Completed
+696,753,Net Banking,9326.55,Completed
+697,754,Credit Card,678.30,Completed
+698,757,Debit Card,8443.70,Completed
+699,758,Net Banking,3595.20,Completed
+700,759,Credit Card,2636.30,Completed
+701,760,Cash on Delivery,1058.20,Completed
+702,761,Net Banking,3715.55,Completed
+703,762,Credit Card,2338.20,Completed
+704,763,Net Banking,10953.85,Completed
+705,764,Debit Card,13371.40,Completed
+706,765,Net Banking,9246.65,Completed
+707,766,UPI,4655.30,Refunded
+708,767,Credit Card,3790.15,Completed
+709,768,Credit Card,4498.20,Pending
+710,769,Net Banking,3146.00,Completed
+711,770,UPI,14837.55,Completed
+712,771,Debit Card,2471.40,Completed
+713,772,UPI,9162.65,Completed
+714,773,Credit Card,7812.30,Completed
+715,774,Credit Card,4675.30,Completed
+716,775,UPI,3296.30,Completed
+717,776,Cash on Delivery,9453.50,Completed
+718,777,Debit Card,2277.15,Completed
+719,778,Net Banking,5410.25,Completed
+720,779,Credit Card,3196.20,Pending
+721,780,Credit Card,4095.00,Completed
+722,781,Cash on Delivery,3685.30,Completed
+723,782,UPI,2197.00,Completed
+724,783,Credit Card,4435.45,Pending
+725,784,Net Banking,4296.00,Completed
+726,785,UPI,9869.45,Completed
+727,786,UPI,7303.30,Completed
+728,787,Credit Card,15072.30,Completed
+729,788,Net Banking,4798.40,Refunded
+730,789,Credit Card,8717.25,Completed
+731,790,Cash on Delivery,6399.30,Completed
+732,791,Debit Card,3997.40,Completed
+733,793,Net Banking,1999.20,Completed
+734,795,UPI,599.00,Completed
+735,796,Credit Card,718.40,Completed
+736,797,Credit Card,11696.45,Pending
+737,798,Credit Card,3456.40,Pending
+738,799,Net Banking,4131.65,Completed
+739,800,Credit Card,16515.15,Completed
+740,801,Debit Card,6327.90,Completed
+741,802,UPI,3907.45,Completed
+742,804,Credit Card,1857.20,Completed
+743,805,Cash on Delivery,1799.00,Pending
+744,806,Credit Card,7735.30,Completed
+745,807,Credit Card,11368.75,Completed
+746,808,Credit Card,5397.00,Completed
+747,809,Net Banking,2035.15,Completed
+748,811,UPI,3597.00,Refunded
+749,812,Cash on Delivery,3348.95,Completed
+750,813,Cash on Delivery,8992.60,Completed
+751,814,Net Banking,4933.60,Completed
+752,815,Net Banking,7209.45,Completed
+753,816,Cash on Delivery,4651.20,Completed
+754,817,Cash on Delivery,1398.00,Completed
+755,818,Net Banking,2956.00,Completed
+756,819,Cash on Delivery,5698.10,Completed
+757,822,Cash on Delivery,5099.25,Completed
+758,823,Credit Card,1499.00,Completed
+759,824,UPI,8773.25,Pending
+760,825,Credit Card,3186.40,Completed
+761,826,Net Banking,999.00,Completed
+762,827,UPI,9042.05,Completed
+763,828,Cash on Delivery,899.00,Completed
+764,829,Credit Card,4798.10,Completed
+765,830,UPI,9846.45,Completed
+766,831,UPI,4895.00,Refunded
+767,833,UPI,2516.40,Refunded
+768,834,Credit Card,4777.25,Completed
+769,835,Credit Card,6879.35,Completed
+770,836,Credit Card,6315.40,Completed
+771,837,Credit Card,6971.00,Completed
+772,838,Net Banking,5079.30,Completed
+773,839,UPI,9474.45,Completed
+774,840,Debit Card,4554.65,Completed
+775,841,Cash on Delivery,11633.80,Completed
+776,842,Debit Card,14452.90,Completed
+777,843,Debit Card,3846.00,Completed
+778,844,UPI,5547.30,Completed
+779,846,UPI,1197.00,Completed
+780,847,UPI,5398.15,Completed
+781,848,Cash on Delivery,11903.90,Completed
+782,849,Net Banking,6854.65,Completed
+783,850,Debit Card,4035.30,Pending
+784,851,Debit Card,718.20,Completed
+785,852,Net Banking,4317.60,Completed
+786,853,Net Banking,2316.80,Completed
+787,854,Net Banking,4201.05,Completed
+788,855,UPI,948.10,Completed
+789,856,Cash on Delivery,5997.60,Completed
+790,857,Net Banking,5506.30,Refunded
+791,858,UPI,4104.65,Completed
+792,859,Cash on Delivery,8545.45,Completed
+793,860,UPI,17443.50,Completed
+794,861,Debit Card,1497.00,Completed
+795,862,UPI,3774.60,Completed
+796,863,Credit Card,2998.00,Completed
+797,864,Cash on Delivery,3198.00,Completed
+798,865,Credit Card,1737.15,Completed
+799,866,Credit Card,5997.60,Completed
+800,867,Debit Card,4435.30,Completed
+801,868,Credit Card,15241.90,Completed
+802,869,Credit Card,1198.00,Pending
+803,870,UPI,5998.00,Completed
+804,871,Net Banking,16465.85,Completed
+805,872,UPI,12161.10,Completed
+806,873,UPI,4673.75,Completed
+807,874,UPI,6071.10,Completed
+808,875,UPI,1593.15,Completed
+809,876,Credit Card,5397.00,Pending
+810,877,Credit Card,674.10,Completed
+811,878,Cash on Delivery,3755.20,Completed
+812,879,Net Banking,10445.15,Completed
+813,880,Debit Card,6582.55,Completed
+814,881,Net Banking,7595.00,Completed
+815,882,Net Banking,6789.75,Completed
+816,883,Debit Card,10920.15,Completed
+817,884,Cash on Delivery,1499.00,Completed
+818,885,Cash on Delivery,3662.40,Completed
+819,886,Debit Card,5982.60,Completed
+820,887,UPI,3147.00,Pending
+821,888,Credit Card,15792.00,Completed
+822,889,UPI,9913.15,Pending
+823,890,Debit Card,2998.00,Completed
+824,891,Cash on Delivery,7525.10,Pending
+825,892,Debit Card,11997.00,Completed
+826,893,UPI,9029.45,Completed
+827,894,Net Banking,3399.15,Completed
+828,895,Net Banking,7162.40,Pending
+829,896,Debit Card,4465.05,Completed
+830,897,Debit Card,10034.80,Completed
+831,899,Net Banking,12952.30,Completed
+832,900,Net Banking,3196.40,Completed
+833,901,Cash on Delivery,699.00,Completed
+834,902,Cash on Delivery,2468.10,Completed
+835,904,Debit Card,6595.00,Completed
+836,905,Net Banking,1358.30,Completed
+837,907,Debit Card,15590.00,Completed
+838,908,Cash on Delivery,3956.45,Completed
+839,909,Debit Card,8449.30,Pending
+840,910,Debit Card,5091.15,Completed
+841,911,UPI,10666.45,Completed
+842,912,UPI,1677.60,Completed
+843,913,Cash on Delivery,4274.65,Completed
+844,915,Cash on Delivery,948.10,Completed
+845,916,Debit Card,6155.10,Completed
+846,917,UPI,7095.00,Completed
+847,918,UPI,3650.20,Completed
+848,919,UPI,6868.05,Completed
+849,920,Credit Card,1599.00,Completed
+850,921,Cash on Delivery,5588.15,Refunded
+851,923,Net Banking,10994.00,Completed
+852,924,UPI,999.00,Completed
+853,925,Credit Card,12440.65,Completed
+854,926,Debit Card,10929.15,Refunded
+855,927,Debit Card,14548.50,Completed
+856,928,Credit Card,933.30,Refunded
+857,929,UPI,10873.05,Completed
+858,930,Cash on Delivery,3238.20,Completed
+859,932,Credit Card,1137.15,Completed
+860,933,Net Banking,4955.40,Completed
+861,934,Credit Card,3642.75,Completed
+862,935,Cash on Delivery,10643.20,Completed
+863,936,UPI,3625.55,Completed
+864,937,Credit Card,7499.85,Completed
+865,938,Credit Card,1978.10,Completed
+866,939,Net Banking,6696.20,Completed
+867,940,Credit Card,6474.55,Completed
+868,941,Cash on Delivery,2897.00,Completed
+869,943,Debit Card,2646.00,Completed
+870,944,Credit Card,2398.00,Pending
+871,946,Cash on Delivery,1497.00,Completed
+872,947,UPI,3346.30,Completed
+873,948,Net Banking,5293.90,Completed
+874,949,Cash on Delivery,711.55,Completed
+875,950,UPI,11917.60,Completed
+876,951,Net Banking,7293.30,Completed
+877,952,Credit Card,1497.00,Completed
+878,953,Cash on Delivery,6395.10,Refunded
+879,954,Cash on Delivery,2196.60,Completed
+880,955,Debit Card,6138.45,Completed
+881,956,Debit Card,2465.70,Completed
+882,957,Net Banking,10693.95,Refunded
+883,958,Credit Card,1398.00,Completed
+884,959,Net Banking,1278.40,Completed
+885,960,Credit Card,10444.45,Completed
+886,961,UPI,6496.20,Completed
+887,962,Debit Card,4844.45,Completed
+888,963,Debit Card,5976.20,Completed
+889,964,Credit Card,679.15,Pending
+890,965,Debit Card,5816.50,Completed
+891,966,Net Banking,3058.20,Completed
+892,967,UPI,5064.30,Completed
+893,968,Cash on Delivery,9895.70,Completed
+894,969,Cash on Delivery,10482.60,Completed
+895,970,Cash on Delivery,8737.00,Completed
+896,971,Cash on Delivery,6298.95,Completed
+897,972,UPI,10231.10,Refunded
+898,973,Credit Card,3971.65,Completed
+899,974,Net Banking,7173.50,Completed
+900,975,Net Banking,5695.00,Completed
+901,976,Credit Card,9077.45,Completed
+902,977,Credit Card,4972.55,Completed
+903,978,Credit Card,6896.50,Completed
+904,979,UPI,1598.00,Completed
+905,980,Debit Card,1528.30,Completed
+906,981,Credit Card,5396.40,Completed
+907,982,Credit Card,3069.15,Completed
+908,983,Net Banking,2097.00,Completed
+909,984,Net Banking,5044.85,Completed
+910,985,UPI,4047.30,Completed
+911,987,UPI,3999.00,Completed
+912,988,UPI,7065.15,Completed
+913,989,Net Banking,6673.50,Completed
+914,990,UPI,8734.75,Completed
+915,991,Cash on Delivery,1199.00,Completed
+916,992,Cash on Delivery,5836.35,Completed
+917,993,Debit Card,3598.00,Completed
+918,994,Net Banking,15292.50,Completed
+919,995,Cash on Delivery,599.00,Completed
+920,996,Debit Card,5095.00,Completed
+921,997,Credit Card,3355.10,Completed
+922,998,Debit Card,11262.30,Completed
+923,999,Credit Card,8673.40,Completed
+924,1000,Net Banking,854.05,Completed
+925,1001,UPI,13791.50,Completed
+926,1002,UPI,10219.75,Completed
+927,1003,Debit Card,849.15,Completed
+928,1004,Debit Card,9114.15,Completed
+929,1005,Net Banking,3085.70,Completed
+930,1007,Debit Card,16412.30,Completed
+931,1008,Credit Card,2385.30,Completed
+932,1009,Cash on Delivery,3945.40,Completed
+933,1011,UPI,2207.10,Completed
+934,1012,UPI,2499.00,Completed
+935,1013,UPI,3599.10,Completed
+936,1014,UPI,12525.30,Completed
+937,1015,Credit Card,4356.10,Completed
+938,1016,UPI,4710.45,Pending
+939,1017,Debit Card,718.20,Completed
+940,1019,UPI,7286.40,Completed
+941,1020,Cash on Delivery,339.15,Completed
+942,1021,Credit Card,1099.00,Refunded
+943,1022,Net Banking,8412.65,Completed
+944,1023,Credit Card,1347.00,Refunded
+945,1024,Credit Card,2951.45,Completed
+946,1025,Cash on Delivery,3198.00,Completed
+947,1026,Debit Card,4545.70,Completed
+948,1027,Debit Card,12365.15,Completed
+949,1028,UPI,1654.95,Completed
+950,1029,Debit Card,6978.45,Completed
+951,1030,Credit Card,10829.05,Completed
+952,1031,Credit Card,4936.20,Completed
+953,1032,Cash on Delivery,5974.70,Completed
+954,1033,UPI,13513.80,Completed
+955,1034,Debit Card,9395.55,Completed
+956,1035,Net Banking,4542.00,Completed
+957,1036,UPI,5396.40,Completed
+958,1037,Debit Card,9545.20,Completed
+959,1038,Cash on Delivery,3876.00,Refunded
+960,1039,Cash on Delivery,8755.20,Completed
+961,1040,UPI,2736.40,Completed
+962,1041,Cash on Delivery,2697.00,Completed
+963,1043,Cash on Delivery,2398.00,Completed
+964,1044,Net Banking,898.20,Completed
+965,1045,Credit Card,2087.20,Completed
+966,1046,Debit Card,3867.10,Completed
+967,1047,Cash on Delivery,2815.45,Completed
+968,1048,UPI,2158.20,Completed
+969,1049,Net Banking,5528.65,Completed
+970,1050,Debit Card,6804.25,Completed
+971,1051,Credit Card,9896.10,Completed
+972,1052,Cash on Delivery,6698.75,Completed
+973,1053,Debit Card,8454.60,Completed
+974,1054,Debit Card,2024.25,Completed
+975,1055,Debit Card,3986.20,Completed
+976,1056,Debit Card,3597.00,Completed
+977,1057,Net Banking,3894.00,Completed
+978,1059,UPI,1799.00,Completed
+979,1060,Net Banking,3830.50,Completed
+980,1061,Credit Card,4136.20,Completed
+981,1062,Cash on Delivery,1947.00,Completed
+982,1063,Credit Card,1077.30,Completed
+983,1064,Net Banking,3504.75,Completed
+984,1065,Debit Card,6923.30,Completed
+985,1066,UPI,5385.40,Completed
+986,1067,UPI,1197.60,Completed
+987,1068,Cash on Delivery,8875.20,Completed
+988,1069,UPI,6325.15,Completed
+989,1070,Net Banking,8762.40,Completed
+990,1071,Credit Card,3730.65,Completed
+991,1072,Debit Card,898.00,Completed
+992,1073,Debit Card,798.00,Completed
+993,1074,Cash on Delivery,7122.15,Completed
+994,1075,Credit Card,7585.45,Completed
+995,1076,UPI,2476.70,Completed
+996,1077,Debit Card,7142.10,Completed
+997,1078,Debit Card,798.00,Refunded
+998,1079,Debit Card,8413.90,Completed
+999,1080,Net Banking,13941.60,Completed
+1000,1081,Cash on Delivery,8578.05,Completed
+1001,1082,UPI,1478.15,Completed
+1002,1083,UPI,4797.00,Completed
+1003,1084,Net Banking,3694.60,Completed
+1004,1085,Net Banking,12921.05,Completed
+1005,1086,Debit Card,2889.15,Completed
+1006,1088,Debit Card,19722.65,Completed
+1007,1089,Debit Card,4798.40,Completed
+1008,1091,Net Banking,2397.25,Completed
+1009,1092,Debit Card,9584.95,Completed
+1010,1093,Cash on Delivery,1298.00,Completed
+1011,1094,Net Banking,2997.00,Completed
+1012,1095,UPI,1499.00,Completed
+1013,1096,UPI,4316.00,Completed
+1014,1097,Debit Card,10389.50,Completed
+1015,1098,Cash on Delivery,16192.00,Completed
+1016,1099,UPI,5745.35,Completed
+1017,1100,Cash on Delivery,2878.20,Completed
+1018,1101,UPI,1499.00,Completed
+1019,1102,Net Banking,1197.60,Completed
+1020,1103,Cash on Delivery,2157.10,Completed
+1021,1104,UPI,25129.70,Completed
+1022,1105,Debit Card,11870.70,Completed
+1023,1106,Debit Card,8114.20,Completed
+1024,1107,Debit Card,3546.10,Completed
+1025,1108,Credit Card,3207.20,Completed
+1026,1110,UPI,7057.40,Completed
+1027,1111,Net Banking,5239.40,Completed
+1028,1112,Net Banking,699.00,Completed
+1029,1113,UPI,1898.10,Completed
+1030,1114,UPI,7094.60,Completed
+1031,1115,Debit Card,594.15,Completed
+1032,1116,Debit Card,3533.85,Completed
+1033,1117,UPI,2718.10,Completed
+1034,1118,UPI,2108.15,Completed
+1035,1119,UPI,6082.20,Completed
+1036,1120,UPI,948.10,Completed
+1037,1121,Debit Card,1887.30,Completed
+1038,1122,Credit Card,4148.15,Completed
+1039,1123,Cash on Delivery,5596.60,Completed
+1040,1124,Net Banking,3585.30,Completed
+1041,1125,Net Banking,4346.40,Completed
+1042,1126,Credit Card,7883.55,Completed
+1043,1127,Cash on Delivery,17611.30,Completed
+1044,1128,Debit Card,9988.80,Completed
+1045,1129,UPI,1015.55,Completed
+1046,1130,Credit Card,9961.95,Completed
+1047,1132,UPI,1617.30,Completed
+1048,1133,Credit Card,1998.00,Completed
+1049,1134,Cash on Delivery,7814.10,Refunded
+1050,1136,Net Banking,7132.70,Completed
+1051,1137,UPI,3312.10,Completed
+1052,1138,Credit Card,10537.75,Completed
+1053,1139,UPI,4538.90,Completed
+1054,1140,Credit Card,2031.75,Completed
+1055,1141,Debit Card,2468.10,Completed
+1056,1142,UPI,5588.60,Completed
+1057,1143,Cash on Delivery,8477.50,Completed
+1058,1144,Debit Card,7706.50,Completed
+1059,1145,UPI,3423.15,Completed
+1060,1146,Cash on Delivery,957.60,Completed
+1061,1147,Debit Card,2361.70,Completed
+1062,1148,Net Banking,7568.25,Completed
+1063,1149,UPI,4596.00,Completed
+1064,1150,Cash on Delivery,11390.70,Completed
+1065,1151,Debit Card,11347.60,Refunded
+1066,1152,Debit Card,1197.00,Completed
+1067,1153,UPI,16592.60,Completed
+1068,1154,Net Banking,5250.40,Completed
+1069,1156,Cash on Delivery,4749.65,Completed
+1070,1157,Cash on Delivery,4097.00,Completed
+1071,1158,UPI,20482.20,Completed
+1072,1159,Debit Card,8621.30,Refunded
+1073,1160,Credit Card,7497.00,Completed
+1074,1161,Net Banking,9524.45,Completed
+1075,1162,Cash on Delivery,758.10,Pending
+1076,1163,Cash on Delivery,2607.20,Refunded
+1077,1164,Debit Card,6077.60,Pending
+1078,1165,Credit Card,10394.30,Completed
+1079,1166,Credit Card,4523.10,Completed
+1080,1167,Net Banking,14042.25,Completed
+1081,1168,Net Banking,2523.15,Completed
+1082,1169,Cash on Delivery,10458.00,Completed
+1083,1170,Credit Card,2249.10,Completed
+1084,1171,UPI,3362.15,Completed
+1085,1172,Net Banking,719.10,Completed
+1086,1173,Debit Card,8030.40,Completed
+1087,1174,Credit Card,6608.55,Completed
+1088,1175,Cash on Delivery,4555.20,Completed
+1089,1176,UPI,2103.25,Pending
+1090,1177,Cash on Delivery,7418.50,Completed
+1091,1178,Cash on Delivery,3595.40,Completed
+1092,1179,Cash on Delivery,7106.10,Completed
+1093,1180,Cash on Delivery,8457.85,Completed
+1094,1181,Credit Card,799.20,Completed
+1095,1182,Cash on Delivery,3416.10,Completed
+1096,1183,UPI,2897.00,Refunded
+1097,1184,Cash on Delivery,2317.45,Completed
+1098,1185,Cash on Delivery,8460.60,Completed
+1099,1186,Cash on Delivery,12831.20,Completed
+1100,1187,UPI,9923.70,Completed
+1101,1188,UPI,10852.60,Completed
+1102,1189,Credit Card,3117.60,Completed
+1103,1190,Cash on Delivery,9045.00,Completed
+1104,1191,Credit Card,1599.00,Completed
+1105,1192,Cash on Delivery,4843.15,Completed
+1106,1193,Credit Card,8503.70,Completed
+1107,1194,Net Banking,24828.60,Completed
+1108,1195,Credit Card,3221.30,Completed
+1109,1196,UPI,1797.60,Completed
+1110,1197,Net Banking,4754.10,Completed
+1111,1198,UPI,3097.40,Completed
+1112,1201,Cash on Delivery,3598.00,Completed
+1113,1202,Credit Card,15542.50,Completed
+1114,1203,Debit Card,11233.95,Completed
+1115,1204,Net Banking,9857.55,Completed
+1116,1205,Debit Card,10790.00,Completed
+1117,1206,Net Banking,3667.35,Completed
+1118,1207,Net Banking,7622.25,Completed
+1119,1208,Cash on Delivery,3599.10,Completed
+1120,1209,UPI,4806.60,Pending
+1121,1211,UPI,3598.00,Completed
+1122,1212,Cash on Delivery,2016.45,Completed
+1123,1213,Cash on Delivery,5724.35,Completed
+1124,1214,UPI,4584.45,Completed
+1125,1215,Credit Card,17150.20,Completed
+1126,1216,Net Banking,1017.45,Completed
+1127,1217,UPI,3557.30,Completed
+1128,1218,Credit Card,4446.10,Completed
+1129,1219,UPI,10049.50,Completed
+1130,1220,Cash on Delivery,6025.30,Completed
+1131,1222,Debit Card,8512.80,Completed
+1132,1223,Credit Card,6446.10,Refunded
+1133,1224,Debit Card,3397.00,Completed
+1134,1225,UPI,13006.95,Completed
+1135,1227,Net Banking,5169.45,Completed
+1136,1228,UPI,1077.60,Completed
+1137,1229,Net Banking,2308.20,Completed
+1138,1231,Net Banking,6062.60,Completed
+1139,1233,Debit Card,16878.75,Completed
+1140,1234,Debit Card,2866.30,Completed
+1141,1235,Net Banking,1676.30,Completed
+1142,1236,UPI,339.15,Completed
+1143,1237,Credit Card,5712.45,Completed
+1144,1238,Credit Card,2374.05,Completed
+1145,1239,Debit Card,6463.95,Completed
+1146,1240,Net Banking,8044.55,Completed
+1147,1241,Credit Card,9458.95,Completed
+1148,1242,Debit Card,6571.90,Completed
+1149,1243,Net Banking,3897.00,Completed
+1150,1244,UPI,2734.50,Refunded
+1151,1245,UPI,5462.55,Completed
+1152,1246,Net Banking,551.65,Completed
+1153,1248,Credit Card,934.15,Completed
+1154,1249,Debit Card,6055.45,Refunded
+1155,1250,Net Banking,1529.15,Completed
+1156,1251,Credit Card,11491.55,Completed
+1157,1252,Cash on Delivery,3232.35,Completed
+1158,1253,Debit Card,2238.10,Pending
+1159,1254,Credit Card,5095.75,Completed
+1160,1256,Credit Card,5414.80,Completed
+1161,1257,Credit Card,3365.70,Completed
+1162,1258,Credit Card,17962.95,Completed
+1163,1259,Credit Card,7543.20,Completed
+1164,1260,Net Banking,4191.15,Completed
+1165,1261,Debit Card,1328.10,Completed
+1166,1262,Debit Card,3822.10,Refunded
+1167,1263,UPI,8462.55,Completed
+1168,1264,Net Banking,6951.90,Completed
+1169,1266,Net Banking,3418.20,Refunded
+1170,1267,Debit Card,1197.00,Completed
+1171,1268,Cash on Delivery,7806.75,Completed
+1172,1269,UPI,4645.35,Completed
+1173,1270,Cash on Delivery,5998.00,Completed
+1174,1271,Cash on Delivery,9296.00,Completed
+1175,1272,Credit Card,4196.20,Completed
+1176,1273,Credit Card,6166.20,Completed
+1177,1274,UPI,5474.00,Completed
+1178,1275,Net Banking,4325.70,Refunded
+1179,1277,Debit Card,2728.15,Completed
+1180,1278,Credit Card,5094.20,Completed
+1181,1279,Cash on Delivery,2995.50,Completed
+1182,1280,Credit Card,1423.10,Completed
+1183,1281,Debit Card,5816.10,Completed
+1184,1282,UPI,5626.50,Pending
+1185,1283,Credit Card,6934.15,Completed
+1186,1284,Credit Card,2278.10,Completed
+1187,1285,Debit Card,2840.65,Completed
+1188,1286,UPI,638.40,Completed
+1189,1287,Cash on Delivery,5558.50,Completed
+1190,1288,Credit Card,3515.40,Completed
+1191,1289,Net Banking,9999.75,Completed
+1192,1290,Credit Card,1758.40,Completed
+1193,1291,Credit Card,2757.10,Completed
+1194,1292,Debit Card,5258.85,Completed
+1195,1293,Cash on Delivery,14873.00,Completed
+1196,1294,Cash on Delivery,4998.00,Completed
+1197,1295,UPI,3225.25,Completed
+1198,1296,Credit Card,5398.45,Completed
+1199,1297,Net Banking,629.10,Completed
+1200,1298,Debit Card,2746.00,Completed
+1201,1299,Net Banking,499.00,Completed
+1202,1300,Credit Card,6632.45,Refunded
+1203,1301,Debit Card,1424.05,Completed
+1204,1302,Credit Card,12252.60,Completed
+1205,1303,Net Banking,2266.20,Completed
+1206,1304,Credit Card,1798.00,Completed
+1207,1305,Cash on Delivery,5123.45,Completed
+1208,1306,Cash on Delivery,7793.70,Completed
+1209,1307,Credit Card,2386.20,Completed
+1210,1308,Net Banking,10172.85,Completed
+1211,1309,Cash on Delivery,1789.75,Completed
+1212,1310,Credit Card,1758.40,Pending
+1213,1311,Net Banking,3297.00,Completed
+1214,1313,Debit Card,3925.50,Completed
+1215,1314,UPI,759.05,Completed
+1216,1315,UPI,2498.00,Completed
+1217,1316,Credit Card,7596.00,Completed
+1218,1317,UPI,9637.75,Completed
+1219,1318,UPI,6324.30,Completed
+1220,1319,Net Banking,7859.85,Completed
+1221,1320,Net Banking,8153.40,Completed
+1222,1321,UPI,1197.00,Completed
+1223,1322,UPI,2716.40,Completed
+1224,1323,Debit Card,4556.80,Completed
+1225,1324,UPI,2917.20,Completed
+1226,1325,UPI,16252.50,Completed
+1227,1326,UPI,15540.90,Completed
+1228,1327,UPI,3237.30,Completed
+1229,1328,Net Banking,5753.35,Completed
+1230,1329,UPI,8983.25,Completed
+1231,1330,Debit Card,2718.30,Completed
+1232,1331,Cash on Delivery,2106.15,Refunded
+1233,1332,UPI,2396.40,Completed
+1234,1333,Cash on Delivery,3305.70,Completed
+1235,1334,UPI,1742.10,Completed
+1236,1335,Credit Card,1098.00,Completed
+1237,1336,Net Banking,1835.70,Completed
+1238,1338,Cash on Delivery,6087.25,Completed
+1239,1339,Cash on Delivery,2398.00,Completed
+1240,1340,UPI,9482.30,Completed
+1241,1341,Credit Card,8896.00,Completed
+1242,1342,Debit Card,8533.25,Completed
+1243,1343,Debit Card,2697.00,Completed
+1244,1344,UPI,4335.30,Completed
+1245,1345,Credit Card,1571.50,Completed
+1246,1346,Cash on Delivery,7315.60,Completed
+1247,1347,Cash on Delivery,879.20,Completed
+1248,1348,Credit Card,10995.00,Completed
+1249,1349,UPI,7374.50,Completed
+1250,1350,Debit Card,4672.65,Completed
+1251,1351,Debit Card,6991.30,Completed
+1252,1352,Cash on Delivery,11036.40,Completed
+1253,1353,Cash on Delivery,2697.00,Completed
+1254,1354,Cash on Delivery,1782.45,Completed
+1255,1355,Net Banking,4557.15,Completed
+1256,1356,Debit Card,2398.40,Completed
+1257,1357,Cash on Delivery,3380.45,Completed
+1258,1358,Credit Card,13991.00,Completed
+1259,1359,Credit Card,2297.00,Completed
+1260,1360,UPI,2747.10,Completed
+1261,1361,Net Banking,5323.60,Completed
+1262,1362,Credit Card,6773.85,Completed
+1263,1363,Credit Card,1535.65,Completed
+1264,1364,Cash on Delivery,12446.85,Completed
+1265,1366,Net Banking,3522.55,Completed
+1266,1367,Debit Card,799.00,Pending
+1267,1368,Cash on Delivery,3977.20,Completed
+1268,1369,Net Banking,14290.00,Completed
+1269,1370,Credit Card,8377.65,Completed
+1270,1371,Debit Card,5747.10,Completed
+1271,1373,Debit Card,1998.00,Completed
+1272,1375,Credit Card,1258.20,Refunded
+1273,1376,Net Banking,1998.00,Completed
+1274,1377,Cash on Delivery,1698.30,Refunded
+1275,1378,Credit Card,6864.30,Completed
+1276,1380,Cash on Delivery,5993.80,Refunded
+1277,1381,Credit Card,3908.00,Completed
+1278,1382,Net Banking,3647.65,Completed
+1279,1383,Debit Card,2536.10,Completed
+1280,1384,Credit Card,678.30,Completed
+1281,1385,Debit Card,4074.00,Completed
+1282,1386,Net Banking,7644.90,Completed
+1283,1387,UPI,4898.95,Completed
+1284,1388,Cash on Delivery,636.65,Completed
+1285,1390,Net Banking,1299.00,Completed
+1286,1391,UPI,2097.00,Completed
+1287,1392,Debit Card,5572.85,Completed
+1288,1393,Credit Card,2470.45,Completed
+1289,1394,Net Banking,6167.30,Completed
+1290,1395,UPI,6230.75,Pending
+1291,1397,Cash on Delivery,1197.00,Completed
+1292,1398,Net Banking,4842.45,Completed
+1293,1399,Debit Card,3121.30,Completed
+1294,1400,Credit Card,9314.15,Completed
+1295,1401,Cash on Delivery,1408.05,Completed
+1296,1402,UPI,5905.20,Completed
+1297,1403,Debit Card,3056.55,Completed
+1298,1404,Cash on Delivery,6091.45,Completed
+1299,1405,Debit Card,4998.00,Pending
+1300,1406,Net Banking,4464.95,Completed
+1301,1407,Credit Card,9475.80,Completed
+1302,1408,Cash on Delivery,4196.00,Completed
+1303,1409,UPI,4246.50,Completed
+1304,1410,UPI,3822.45,Completed
+1305,1411,Net Banking,8771.65,Completed
+1306,1412,Cash on Delivery,9266.85,Pending
+1307,1413,Net Banking,8997.00,Completed
+1308,1414,UPI,1438.40,Pending
+1309,1415,Cash on Delivery,1517.40,Completed
+1310,1417,Debit Card,3696.00,Completed
+1311,1418,UPI,1804.05,Completed
+1312,1419,Cash on Delivery,9291.10,Completed
+1313,1420,Net Banking,4272.15,Completed
+1314,1421,UPI,664.05,Completed
+1315,1422,UPI,4795.00,Completed
+1316,1423,Cash on Delivery,8673.60,Completed
+1317,1424,Cash on Delivery,9929.50,Completed
+1318,1425,UPI,1398.00,Completed
+1319,1426,Credit Card,678.30,Completed
+1320,1427,Cash on Delivery,12749.45,Completed
+1321,1428,Credit Card,1088.30,Completed
+1322,1429,Cash on Delivery,6643.00,Completed
+1323,1430,Cash on Delivery,3585.30,Pending
+1324,1431,Credit Card,3081.50,Completed
+1325,1432,Net Banking,5693.00,Completed
+1326,1434,UPI,10593.00,Completed
+1327,1435,Debit Card,1997.20,Completed
+1328,1436,Debit Card,5331.70,Refunded
+1329,1437,UPI,3854.20,Completed
+1330,1438,Credit Card,9931.85,Completed
+1331,1439,UPI,12963.50,Completed
+1332,1440,Credit Card,9015.45,Completed
+1333,1441,Debit Card,7496.00,Pending
+1334,1442,Debit Card,13693.00,Completed
+1335,1443,Debit Card,5242.25,Completed
+1336,1444,Credit Card,1398.00,Completed
+1337,1445,Net Banking,8953.60,Completed
+1338,1446,Cash on Delivery,7855.75,Completed
+1339,1447,Debit Card,1398.00,Completed
+1340,1448,Net Banking,2192.35,Completed
+1341,1449,Cash on Delivery,7192.60,Completed
+1342,1450,Debit Card,2347.15,Completed
+1343,1452,Debit Card,5669.00,Completed
+1344,1453,UPI,7030.50,Pending
+1345,1454,Credit Card,4196.00,Completed
+1346,1455,Debit Card,1797.00,Pending
+1347,1456,Net Banking,6768.45,Completed
+1348,1457,UPI,2097.00,Completed
+1349,1458,UPI,449.10,Completed
+1350,1459,Credit Card,5155.30,Completed
+1351,1460,UPI,1367.40,Completed
+1352,1461,Net Banking,12922.15,Completed
+1353,1462,Debit Card,4637.10,Completed
+1354,1464,Debit Card,4796.00,Completed
+1355,1465,Credit Card,6367.65,Completed
+1356,1466,Debit Card,1797.60,Completed
+1357,1467,UPI,8153.20,Completed
+1358,1468,Net Banking,6326.10,Completed
+1359,1469,Net Banking,7014.10,Completed
+1360,1470,Debit Card,11818.45,Completed
+1361,1471,Net Banking,12503.10,Completed
+1362,1472,Net Banking,2941.20,Completed
+1363,1473,Credit Card,2785.10,Completed
+1364,1474,UPI,3855.30,Completed
+1365,1475,Cash on Delivery,3999.00,Completed
+1366,1476,Cash on Delivery,9535.30,Refunded
+1367,1477,Debit Card,4664.15,Completed
+1368,1478,Net Banking,4146.20,Completed
+1369,1479,Credit Card,7784.50,Completed
+1370,1480,Net Banking,17208.75,Completed
+1371,1481,Cash on Delivery,1998.00,Completed
+1372,1482,Net Banking,5063.90,Refunded
+1373,1483,Debit Card,4672.70,Completed
+1374,1485,Cash on Delivery,4191.15,Completed
+1375,1486,Credit Card,4587.45,Completed
+1376,1487,Debit Card,899.10,Completed
+1377,1488,Net Banking,3796.00,Completed
+1378,1489,Net Banking,4497.00,Completed
+1379,1490,UPI,8693.00,Completed
+1380,1491,Debit Card,10361.50,Completed
+1381,1493,Cash on Delivery,6877.20,Completed
+1382,1494,Net Banking,8793.60,Completed
+1383,1495,UPI,13474.70,Pending
+1384,1496,Cash on Delivery,14261.80,Completed
+1385,1497,Debit Card,15490.90,Completed
+1386,1498,Cash on Delivery,934.15,Completed
+1387,1499,Cash on Delivery,7998.00,Completed
+1388,1500,Net Banking,6090.45,Completed
+1389,1502,Cash on Delivery,21408.75,Completed
+1390,1503,Debit Card,4877.85,Completed
+1391,1504,Debit Card,6678.80,Completed
+1392,1505,Debit Card,2706.30,Completed
+1393,1506,Net Banking,5902.65,Completed
+1394,1508,Debit Card,14376.25,Completed
+1395,1509,Debit Card,8454.15,Completed
+1396,1510,UPI,3106.45,Completed
+1397,1511,Cash on Delivery,3597.00,Completed
+1398,1512,Credit Card,4272.15,Completed
+1399,1513,Credit Card,5956.30,Completed
+1400,1514,Cash on Delivery,2994.60,Refunded
+1401,1515,Cash on Delivery,3577.20,Completed
+1402,1516,Debit Card,3746.00,Completed
+1403,1517,Credit Card,11676.45,Completed
+1404,1518,Debit Card,1677.60,Completed
+1405,1519,Credit Card,10683.70,Completed
+1406,1520,Net Banking,3997.20,Completed
+1407,1521,Net Banking,12193.60,Completed
+1408,1522,Credit Card,3176.05,Completed
+1409,1523,Debit Card,10749.65,Completed
+1410,1524,Debit Card,3058.30,Completed
+1411,1525,Net Banking,1647.00,Completed
+1412,1526,Net Banking,6544.50,Completed
+1413,1527,UPI,2998.00,Completed
+1414,1528,Debit Card,2477.15,Refunded
+1415,1529,UPI,2997.00,Completed
+1416,1530,Net Banking,4294.35,Completed
+1417,1531,UPI,1841.70,Completed
+1418,1533,UPI,539.10,Completed
+1419,1534,Net Banking,10520.20,Completed
+1420,1535,Debit Card,2043.80,Completed
+1421,1536,Net Banking,2697.00,Refunded
+1422,1537,UPI,5648.55,Completed
+1423,1539,UPI,7531.30,Completed
+1424,1540,Credit Card,849.15,Refunded
+1425,1541,UPI,2991.45,Pending
+1426,1542,Debit Card,3541.40,Completed
+1427,1543,Credit Card,18251.40,Completed
+1428,1544,UPI,8133.30,Completed
+1429,1545,UPI,2722.05,Completed
+1430,1546,Credit Card,6689.20,Completed
+1431,1547,Cash on Delivery,8855.30,Completed
+1432,1548,Credit Card,9423.55,Completed
+1433,1549,Cash on Delivery,5396.00,Completed
+1434,1550,Debit Card,8196.00,Completed
+1435,1551,Cash on Delivery,5465.50,Completed
+1436,1552,Credit Card,5835.45,Pending
+1437,1553,Net Banking,2741.10,Completed
+1438,1554,Debit Card,5556.30,Completed
+1439,1555,Credit Card,4755.15,Completed
+1440,1556,Net Banking,2499.00,Completed
+1441,1557,UPI,7890.00,Completed
+1442,1559,UPI,4125.60,Completed
+1443,1560,UPI,4366.40,Completed
+1444,1561,Cash on Delivery,2247.00,Completed
+1445,1562,Debit Card,14742.55,Completed
+1446,1563,Net Banking,13335.35,Completed
+1447,1564,UPI,4014.45,Completed
+1448,1565,Cash on Delivery,5345.60,Completed
+1449,1566,Debit Card,7543.45,Completed
+1450,1568,Credit Card,2697.00,Completed
+1451,1569,UPI,2277.15,Completed
+1452,1570,Credit Card,958.40,Completed
+1453,1571,UPI,9813.20,Completed
+1454,1572,Credit Card,1593.05,Completed
+1455,1573,Cash on Delivery,11667.45,Completed
+1456,1574,UPI,4396.00,Completed
+1457,1576,Cash on Delivery,17122.60,Completed
+1458,1577,Credit Card,8353.50,Completed
+1459,1578,UPI,5685.30,Completed
+1460,1579,Net Banking,4137.20,Refunded
+1461,1580,Net Banking,2038.30,Completed
+1462,1581,UPI,1598.00,Completed
+1463,1582,UPI,5486.40,Refunded
+1464,1583,UPI,10516.20,Completed
+1465,1584,Cash on Delivery,5394.00,Completed
+1466,1585,Cash on Delivery,2562.15,Completed
+1467,1586,Credit Card,4359.15,Refunded
+1468,1587,Cash on Delivery,4474.70,Pending
+1469,1588,Cash on Delivery,6834.40,Completed
+1470,1589,Debit Card,3526.10,Completed
+1471,1590,UPI,6295.00,Completed
+1472,1591,Net Banking,957.60,Completed
+1473,1593,Net Banking,2249.10,Completed
+1474,1594,Net Banking,10692.40,Completed
+1475,1596,Credit Card,1936.65,Completed
+1476,1597,UPI,3597.00,Completed
+1477,1598,Cash on Delivery,898.20,Completed
+1478,1599,Credit Card,3725.10,Completed
+1479,1600,Debit Card,10347.90,Completed
+1480,1601,Net Banking,13616.10,Completed
+1481,1602,UPI,5913.70,Completed
+1482,1603,Net Banking,5499.80,Completed
+1483,1604,Debit Card,3794.30,Completed
+1484,1605,Net Banking,4097.00,Completed
+1485,1606,UPI,5754.30,Completed
+1486,1607,Cash on Delivery,1482.30,Completed
+1487,1608,Net Banking,16104.60,Completed
+1488,1609,Net Banking,8134.65,Completed
+1489,1610,Cash on Delivery,2498.00,Completed
+1490,1611,UPI,1274.15,Completed
+1491,1612,Cash on Delivery,4335.20,Completed
+1492,1613,Credit Card,6761.25,Completed
+1493,1614,Credit Card,4686.15,Completed
+1494,1615,Net Banking,6180.85,Completed
+1495,1616,Debit Card,2902.15,Completed
+1496,1618,Credit Card,3345.90,Pending
+1497,1619,Debit Card,6871.95,Completed
+1498,1620,UPI,1899.00,Pending
+1499,1621,UPI,3878.75,Completed
+1500,1622,Credit Card,2278.10,Completed
+1501,1623,Credit Card,17610.75,Completed
+1502,1624,Net Banking,3191.25,Completed
+1503,1625,Net Banking,10294.20,Completed
+1504,1626,Net Banking,2997.00,Completed
+1505,1627,Net Banking,1698.30,Completed
+1506,1628,UPI,2636.30,Completed
+1507,1629,Credit Card,1347.30,Completed
+1508,1630,Debit Card,7878.65,Completed
+1509,1631,Debit Card,9566.85,Completed
+1510,1632,Net Banking,2848.10,Completed
+1511,1633,Cash on Delivery,8695.00,Completed
+1512,1634,Credit Card,2598.00,Completed
+1513,1635,Credit Card,6954.60,Completed
+1514,1636,Cash on Delivery,14789.15,Completed
+1515,1637,Credit Card,5754.75,Completed
+1516,1638,Net Banking,14406.45,Completed
+1517,1639,Credit Card,11814.30,Refunded
+1518,1640,Cash on Delivery,3198.00,Completed
+1519,1641,Credit Card,8181.30,Completed
+1520,1642,Credit Card,9710.05,Completed
+1521,1643,Debit Card,7092.55,Refunded
+1522,1644,UPI,2278.10,Completed
+1523,1645,Debit Card,2878.20,Completed
+1524,1646,UPI,6585.10,Completed
+1525,1647,Net Banking,12594.45,Completed
+1526,1648,Net Banking,2547.00,Completed
+1527,1650,Cash on Delivery,7068.90,Completed
+1528,1651,UPI,14244.20,Completed
+1529,1652,Net Banking,1598.00,Completed
+1530,1653,Net Banking,10990.15,Completed
+1531,1654,Net Banking,4444.00,Completed
+1532,1657,UPI,3145.00,Pending
+1533,1658,Debit Card,5995.40,Pending
+1534,1659,Cash on Delivery,8313.80,Completed
+1535,1660,Credit Card,5034.40,Completed
+1536,1661,Cash on Delivery,1349.10,Completed
+1537,1662,Credit Card,5745.65,Completed
+1538,1663,Debit Card,949.05,Pending
+1539,1664,UPI,798.00,Completed
+1540,1665,Cash on Delivery,854.05,Completed
+1541,1666,Credit Card,799.00,Completed
+1542,1668,UPI,4947.15,Completed
+1543,1669,Credit Card,1358.10,Completed
+1544,1670,Credit Card,2398.00,Completed
+1545,1671,Debit Card,4557.60,Completed
+1546,1672,UPI,6129.70,Completed
+1547,1673,Credit Card,9460.35,Completed
+1548,1674,Credit Card,4273.40,Pending
+1549,1675,Cash on Delivery,6374.60,Completed
+1550,1676,UPI,7245.30,Completed
+1551,1677,Credit Card,7570.20,Pending
+1552,1678,UPI,948.10,Refunded
+1553,1679,Net Banking,1019.15,Pending
+1554,1680,UPI,1909.95,Completed
+1555,1681,Net Banking,5295.10,Completed
+1556,1682,UPI,6379.65,Completed
+1557,1683,Debit Card,9978.45,Completed
+1558,1684,Net Banking,6995.20,Completed
+1559,1685,Credit Card,10256.20,Completed
+1560,1686,UPI,4564.20,Completed
+1561,1687,Net Banking,10672.50,Completed
+1562,1688,Net Banking,5725.95,Completed
+1563,1689,UPI,10127.55,Completed
+1564,1690,Credit Card,1517.40,Completed
+1565,1691,Debit Card,699.00,Completed
+1566,1692,Cash on Delivery,17311.50,Completed
+1567,1693,Credit Card,16641.65,Completed
+1568,1694,Credit Card,5655.60,Completed
+1569,1695,UPI,14812.75,Completed
+1570,1696,UPI,4395.40,Completed
+1571,1697,Credit Card,4640.20,Completed
+1572,1699,Net Banking,854.05,Completed
+1573,1700,Net Banking,7447.75,Completed
+1574,1701,Debit Card,4616.15,Completed
+1575,1702,Credit Card,9312.05,Completed
+1576,1703,Debit Card,2697.00,Completed
+1577,1704,Cash on Delivery,10612.20,Completed
+1578,1705,Credit Card,6113.15,Completed
+1579,1706,Credit Card,2701.45,Completed
+1580,1707,UPI,3671.30,Completed
+1581,1708,Credit Card,5473.50,Completed
+1582,1709,Credit Card,5396.10,Completed
+1583,1710,Net Banking,4453.80,Refunded
+1584,1711,Net Banking,479.20,Completed
+1585,1712,Credit Card,6247.05,Completed
+1586,1713,Net Banking,11093.20,Completed
+1587,1714,Debit Card,5896.40,Completed
+1588,1715,Debit Card,6394.40,Completed
+1589,1716,Credit Card,7626.05,Completed
+1590,1717,Credit Card,11083.15,Completed
+1591,1718,UPI,3598.00,Completed
+1592,1719,UPI,399.00,Completed
+1593,1720,Credit Card,2598.00,Completed
+1594,1721,UPI,6364.70,Completed
+1595,1722,Credit Card,3864.60,Completed
+1596,1723,Net Banking,5736.90,Completed
+1597,1724,Net Banking,1598.00,Completed
+1598,1725,Debit Card,3026.55,Completed
+1599,1726,Credit Card,9097.30,Completed
+1600,1727,UPI,10322.05,Completed
+1601,1728,Debit Card,7623.30,Completed
+1602,1729,Debit Card,6276.50,Completed
+1603,1730,Credit Card,12254.75,Completed
+1604,1731,Net Banking,18793.35,Completed
+1605,1732,Net Banking,10247.55,Completed
+1606,1733,Credit Card,2157.60,Completed
+1607,1734,Debit Card,5364.60,Completed
+1608,1735,Cash on Delivery,1103.30,Completed
+1609,1736,Net Banking,8744.30,Completed
+1610,1737,Cash on Delivery,10017.60,Completed
+1611,1738,Credit Card,4045.45,Completed
+1612,1740,UPI,11525.40,Completed
+1613,1741,Cash on Delivery,4574.15,Completed
+1614,1742,Net Banking,1137.15,Completed
+1615,1744,Debit Card,1398.00,Completed
+1616,1745,Cash on Delivery,1798.00,Completed
+1617,1746,UPI,14233.75,Pending
+1618,1747,UPI,6930.25,Completed
+1619,1748,Cash on Delivery,10577.85,Completed
+1620,1749,Cash on Delivery,4317.30,Completed
+1621,1750,UPI,2508.15,Completed
+1622,1752,UPI,5736.10,Completed
+1623,1753,Net Banking,2047.30,Completed
+1624,1754,Debit Card,9590.25,Completed
+1625,1756,Cash on Delivery,4047.20,Completed
+1626,1757,UPI,5319.00,Completed
+1627,1758,Credit Card,999.00,Completed
+1628,1759,UPI,2198.00,Refunded
+1629,1760,Cash on Delivery,5195.60,Pending
+1630,1762,Credit Card,2397.00,Completed
+1631,1763,Net Banking,6694.50,Refunded
+1632,1764,Cash on Delivery,6129.00,Completed
+1633,1766,Cash on Delivery,1806.60,Completed
+1634,1767,Cash on Delivery,1992.15,Completed
+1635,1768,Cash on Delivery,4724.45,Completed
+1636,1769,Credit Card,2397.00,Completed
+1637,1770,UPI,679.15,Completed
+1638,1771,Debit Card,1518.20,Completed
+1639,1772,Debit Card,8812.70,Completed
+1640,1773,Debit Card,6095.40,Completed
+1641,1774,Debit Card,9597.10,Completed
+1642,1775,Net Banking,16492.25,Completed
+1643,1776,UPI,1398.00,Completed
+1644,1777,Net Banking,3645.50,Completed
+1645,1778,Net Banking,5397.00,Completed
+1646,1779,Cash on Delivery,4390.20,Completed
+1647,1781,Cash on Delivery,898.20,Pending
+1648,1782,UPI,5352.60,Completed
+1649,1783,Debit Card,4814.40,Completed
+1650,1784,Net Banking,339.15,Pending
+1651,1785,Net Banking,758.10,Completed
+1652,1786,Cash on Delivery,2499.00,Completed
+1653,1787,Net Banking,849.15,Completed
+1654,1789,Net Banking,8995.35,Completed
+1655,1790,Cash on Delivery,9477.95,Pending
+1656,1791,Credit Card,7564.05,Completed
+1657,1792,UPI,7315.40,Completed
+1658,1793,Net Banking,12883.65,Refunded
+1659,1795,Net Banking,2170.45,Refunded
+1660,1796,Credit Card,6875.30,Completed
+1661,1797,UPI,14281.30,Completed
+1662,1798,UPI,6054.90,Completed
+1663,1799,Debit Card,2317.05,Completed
+1664,1800,UPI,9453.85,Completed
+1665,1801,Debit Card,6770.75,Completed
+1666,1802,UPI,759.05,Completed
+1667,1803,Credit Card,2291.60,Completed
+1668,1804,Cash on Delivery,4725.30,Completed
+1669,1805,Debit Card,3417.15,Completed
+1670,1806,Cash on Delivery,4494.00,Completed
+1671,1807,Debit Card,5336.45,Completed
+1672,1808,Credit Card,989.10,Completed
+1673,1809,Credit Card,1227.55,Completed
+1674,1810,Debit Card,1157.40,Completed
+1675,1811,Cash on Delivery,7095.00,Pending
+1676,1812,Credit Card,699.00,Completed
+1677,1813,Debit Card,7384.65,Completed
+1678,1814,Credit Card,5694.20,Completed
+1679,1815,Debit Card,11063.60,Completed
+1680,1816,UPI,898.00,Completed
+1681,1817,Debit Card,1198.40,Completed
+1682,1818,Debit Card,8716.05,Completed
+1683,1819,UPI,4296.00,Completed
+1684,1820,Credit Card,6805.90,Completed
+1685,1821,UPI,1019.15,Completed
+1686,1822,Credit Card,3155.60,Completed
+1687,1823,Cash on Delivery,1655.80,Completed
+1688,1824,Net Banking,1279.65,Completed
+1689,1825,UPI,13834.40,Completed
+1690,1826,UPI,2697.10,Refunded
+1691,1827,Cash on Delivery,3776.25,Refunded
+1692,1828,UPI,4255.20,Completed
+1693,1829,Cash on Delivery,3516.40,Completed
+1694,1830,Credit Card,8212.45,Completed
+1695,1831,Net Banking,3507.30,Completed
+1696,1832,Debit Card,8982.30,Completed
+1697,1833,Debit Card,849.15,Completed
+1698,1834,UPI,3536.40,Pending
+1699,1835,Debit Card,3998.40,Completed
+1700,1836,Debit Card,16934.20,Refunded
+1701,1837,Credit Card,3689.95,Completed
+1702,1838,Credit Card,16382.60,Completed
+1703,1839,Net Banking,3996.40,Completed
+1704,1840,Cash on Delivery,9127.75,Completed
+1705,1841,Credit Card,6445.10,Completed
+1706,1842,Debit Card,4855.55,Completed
+1707,1843,Debit Card,8193.00,Completed
+1708,1844,UPI,10418.55,Completed
+1709,1845,UPI,2097.00,Completed
+1710,1847,UPI,5434.20,Completed
+1711,1848,Cash on Delivery,7311.85,Completed
+1712,1850,Debit Card,2549.15,Completed
+1713,1851,Cash on Delivery,7958.65,Completed
+1714,1852,Net Banking,9830.30,Completed
+1715,1853,UPI,6775.40,Completed
+1716,1854,Net Banking,7239.45,Completed
+1717,1855,Debit Card,3736.10,Completed
+1718,1856,Credit Card,5015.10,Completed
+1719,1857,Cash on Delivery,6584.10,Completed
+1720,1858,Credit Card,8195.10,Completed
+1721,1859,Cash on Delivery,6415.50,Pending
+1722,1860,Debit Card,8594.60,Refunded
+1723,1861,Debit Card,1188.30,Completed
+1724,1862,UPI,3625.45,Completed
+1725,1863,Net Banking,9144.45,Completed
+1726,1864,Cash on Delivery,16933.00,Completed
+1727,1865,Net Banking,649.00,Completed
+1728,1866,Cash on Delivery,5063.80,Completed
+1729,1868,Credit Card,5196.00,Completed
+1730,1869,Cash on Delivery,14735.35,Completed
+1731,1870,Net Banking,10535.60,Completed
+1732,1871,Net Banking,7212.45,Completed
+1733,1872,Net Banking,2844.90,Completed
+1734,1873,Net Banking,799.20,Refunded
+1735,1874,Net Banking,3058.30,Completed
+1736,1875,Net Banking,6383.75,Completed
+1737,1876,Net Banking,10197.45,Completed
+1738,1877,UPI,2847.15,Completed
+1739,1878,Debit Card,3655.45,Completed
+1740,1879,Debit Card,5365.05,Completed
+1741,1880,Credit Card,7104.20,Completed
+1742,1881,Credit Card,2088.10,Completed
+1743,1883,Debit Card,878.40,Completed
+1744,1884,Debit Card,9869.40,Completed
+1745,1885,Debit Card,4983.40,Completed
+1746,1886,Debit Card,3478.15,Refunded
+1747,1887,UPI,9863.40,Completed
+1748,1888,Net Banking,809.10,Completed
+1749,1889,UPI,594.15,Completed
+1750,1890,Cash on Delivery,3895.00,Completed
+1751,1891,UPI,1258.20,Completed
+1752,1892,Debit Card,6900.80,Completed
+1753,1893,Credit Card,999.00,Completed
+1754,1894,Cash on Delivery,3971.10,Completed
+1755,1895,Net Banking,1619.10,Completed
+1756,1897,Debit Card,3176.55,Completed
+1757,1898,Credit Card,4901.15,Completed
+1758,1899,Net Banking,638.40,Completed
+1759,1900,Cash on Delivery,3820.10,Completed
+1760,1901,Cash on Delivery,5993.60,Refunded
+1761,1902,Debit Card,10480.35,Completed
+1762,1903,Credit Card,4317.60,Completed
+1763,1904,Cash on Delivery,599.00,Completed
+1764,1905,Debit Card,5223.60,Completed
+1765,1906,Credit Card,1178.15,Completed
+1766,1907,Cash on Delivery,7492.00,Completed
+1767,1908,Net Banking,3356.40,Completed
+1768,1909,Debit Card,3058.30,Completed
+1769,1910,Cash on Delivery,4525.20,Completed
+1770,1911,Cash on Delivery,399.00,Completed
+1771,1912,Cash on Delivery,1799.00,Completed
+1772,1913,Cash on Delivery,759.05,Completed
+1773,1914,Credit Card,7164.60,Completed
+1774,1915,Net Banking,5307.15,Completed
+1775,1916,Debit Card,2998.00,Completed
+1776,1917,Debit Card,2157.30,Completed
+1777,1918,Net Banking,4346.10,Completed
+1778,1919,Debit Card,11850.60,Completed
+1779,1920,Net Banking,521.55,Completed
+1780,1921,UPI,4894.00,Completed
+1781,1922,Cash on Delivery,5453.80,Completed
+1782,1923,Credit Card,4699.80,Completed
+1783,1924,Credit Card,1598.00,Completed
+1784,1925,UPI,3717.35,Completed
+1785,1926,Debit Card,11609.45,Completed
+1786,1927,Cash on Delivery,9243.30,Completed
+1787,1929,Credit Card,4448.10,Completed
+1788,1930,Credit Card,13358.15,Completed
+1789,1931,Credit Card,7360.30,Completed
+1790,1932,Debit Card,9794.00,Pending
+1791,1933,UPI,14115.00,Completed
+1792,1934,Credit Card,3677.10,Completed
+1793,1935,Credit Card,5796.40,Completed
+1794,1936,Debit Card,3336.20,Refunded
+1795,1937,Debit Card,1709.10,Pending
+1796,1939,Net Banking,5188.20,Refunded
+1797,1940,Cash on Delivery,3919.65,Completed
+1798,1941,Cash on Delivery,4495.00,Pending
+1799,1942,Net Banking,15904.50,Completed
+1800,1943,Net Banking,4214.10,Completed
+1801,1944,UPI,3237.30,Completed
+1802,1945,Cash on Delivery,12276.35,Completed
+1803,1946,UPI,5576.10,Completed
+1804,1947,Cash on Delivery,7497.00,Completed
+1805,1948,UPI,5787.15,Completed
+1806,1949,Debit Card,494.10,Pending
+1807,1950,Net Banking,1298.00,Completed
+1808,1951,Cash on Delivery,9103.95,Completed
+1809,1952,Cash on Delivery,6491.30,Pending
+1810,1953,Debit Card,5332.85,Completed
+1811,1954,Cash on Delivery,10269.85,Completed
+1812,1955,UPI,2968.30,Completed
+1813,1956,Net Banking,10372.05,Refunded
+1814,1957,Credit Card,639.20,Completed
+1815,1958,Cash on Delivery,11693.00,Completed
+1816,1959,Cash on Delivery,4995.00,Completed
+1817,1960,UPI,13431.45,Completed
+1818,1961,Cash on Delivery,6233.60,Completed
+1819,1962,Debit Card,3225.15,Completed
+1820,1964,Net Banking,6822.55,Completed
+1821,1965,Net Banking,12642.30,Completed
+1822,1966,Cash on Delivery,6044.10,Completed
+1823,1967,Credit Card,2756.80,Completed
+1824,1968,Debit Card,6007.60,Completed
+1825,1969,Debit Card,466.65,Completed
+1826,1970,Cash on Delivery,5232.45,Completed
+1827,1972,UPI,7284.30,Completed
+1828,1973,Debit Card,7783.30,Completed
+1829,1974,Debit Card,549.00,Completed
+1830,1975,Net Banking,5997.60,Completed
+1831,1976,Debit Card,8995.00,Completed
+1832,1977,Net Banking,11912.10,Completed
+1833,1978,UPI,999.00,Refunded
+1834,1979,Debit Card,6747.30,Pending
+1835,1980,Debit Card,10478.50,Completed
+1836,1981,UPI,758.10,Completed
+1837,1982,Cash on Delivery,1816.20,Completed
+1838,1983,Cash on Delivery,2398.00,Completed
+1839,1984,Net Banking,9179.05,Completed
+1840,1986,UPI,8394.00,Completed
+1841,1987,Net Banking,2986.30,Completed
+1842,1988,Cash on Delivery,7790.85,Completed
+1843,1989,Credit Card,12430.60,Completed
+1844,1990,Credit Card,5571.15,Refunded
+1845,1991,Credit Card,13892.00,Completed
+1846,1993,Net Banking,8393.20,Completed
+1847,1994,Debit Card,5955.10,Completed
+1848,1995,Cash on Delivery,3954.70,Completed
+1849,1996,Net Banking,5094.95,Completed
+1850,1997,Cash on Delivery,7433.35,Completed
+1851,1998,Debit Card,7182.20,Completed
+1852,1999,UPI,3999.00,Completed
+1853,2000,Credit Card,13072.45,Refunded
